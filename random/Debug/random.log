@@ -1,0 +1,3 @@
+﻿  random.cpp
+C:\Users\ASUS\source\repos\random\random\random.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  random.vcxproj -> C:\Users\ASUS\source\repos\random\Debug\random.exe
